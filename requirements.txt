@@ -1,0 +1,6 @@
+tqdm
+matplotlib
+ipykernel
+numpy==1.26
+scipy==1.13
+torch==2.3
